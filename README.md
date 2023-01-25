@@ -1,1 +1,1 @@
-# synthesize
+# [S]ynthesizer.
