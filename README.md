@@ -20,3 +20,12 @@ npm start
 ```
 4/ Scan the QR code that appears with the *Expo Go* app  
 5/ Listen and enjoy :)
+
+## Data
+Geodata objects can be changed in the file `data/data.js`.
+
+## Sound
+Sound files are separated into 3 directories (`entity`, `field`, `voiceOver`) located in `assets/sound/` folder.
+
+## Design
+![](img/design_inspiration.png)
