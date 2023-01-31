@@ -22,10 +22,11 @@ npm start
 5/ Listen and enjoy :)
 
 ## Data
-Geodata objects can be changed in the file `data/data.js`.
+Geodata objects can be added/removed/modified in the file `data/data.js`.
+Example objects are set in the English Garden (Munich, Germany) around the location *48.157647, 11.596916*.
 
 ## Sound
-Sound files are separated into 3 directories (`entity`, `field`, `voiceOver`) located in `assets/sound/` folder.
+Sound files are separated into 3 directories (`entity/`, `field/`, `voiceOver/`) located in `assets/sound/` folder.
 
 ## Design
 ![](img/design_inspiration.png)
