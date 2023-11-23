@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s2.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s2.wav"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_tree1.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_tree1.wav"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_trashcan_dn.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_trashcan_dn.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_click.mp3.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/click.mp3"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_tree3.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_tree3.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s0.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s0.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_bench_up.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_bench_up.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s4.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s4.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s1.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s1.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_tick.mp3.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/tick.mp3"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_tree2.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_tree2.wav"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_point_streetlight.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/point_streetlight.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s6.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s6.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s5.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s5.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/raw_s3.wav.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/raw/s3.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lukalaval.synthesizer.app-merged_res-31:/raw_field_water.wav.flat",
+        "source": "com.lukalaval.synthesizer.app-main-33:/raw/field_water.wav"
+    },
+    {
+        "merged": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/luka/.gradle/daemon/8.0/com.lukalaval.synthesizer.app-main-33:/drawable/ic_launcher_background.xml"
+    }
+]

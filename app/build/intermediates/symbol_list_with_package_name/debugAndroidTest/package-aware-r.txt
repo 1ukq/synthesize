@@ -1,0 +1,3 @@
+com.lukalaval.synthesizer.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

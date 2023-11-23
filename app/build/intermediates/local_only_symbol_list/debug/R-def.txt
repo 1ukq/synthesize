@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id b1
+id et1
+id et2
+id et3
+id s1
+id tv1
+id tv2
+id tv3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw field_water
+raw point_bench_up
+raw point_streetlight
+raw point_trashcan_dn
+raw point_tree1
+raw point_tree2
+raw point_tree3
+string app_name
+style Base.Theme.Synthesizer
+style Theme.Synthesizer
+xml backup_rules
+xml data_extraction_rules
