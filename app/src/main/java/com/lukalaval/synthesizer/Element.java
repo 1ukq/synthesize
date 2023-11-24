@@ -29,23 +29,6 @@ public class Element extends Thread {
         this.latitude = latitude;
         this.longitude = longitude;
 
-
-        if(Objects.equals(this.type, "tree")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_tree1);
-        } else if(Objects.equals(this.type, "tree1")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_tree1);
-        } else if(Objects.equals(this.type, "tree2")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_tree2);
-        } else if(Objects.equals(this.type, "tree3")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_tree3);
-        } else if(Objects.equals(this.type, "trash")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_trashcan_dn);
-        } else if(Objects.equals(this.type, "lamp")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_streetlight);
-        } else if(Objects.equals(this.type, "bench")) {
-            this.mp = MediaPlayer.create(user.context, R.raw.point_bench_up);
-        }
-
         this.start();
     }
 
@@ -70,6 +53,24 @@ public class Element extends Thread {
 
     public void update() {
         double head, lat, lon;
+
+        if(this.mp == null) {
+            if(Objects.equals(this.type, "tree")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_tree1);
+            } else if(Objects.equals(this.type, "tree1")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_tree1);
+            } else if(Objects.equals(this.type, "tree2")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_tree2);
+            } else if(Objects.equals(this.type, "tree3")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_tree3);
+            } else if(Objects.equals(this.type, "trash")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_trashcan_dn);
+            } else if(Objects.equals(this.type, "lamp")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_streetlight);
+            } else if(Objects.equals(this.type, "bench")) {
+                this.mp = MediaPlayer.create(user.context, R.raw.point_bench_up);
+            }
+        }
 
         if(user.auto_s.isChecked()) {
             head = user.heading;
